@@ -32,12 +32,12 @@ No necesitas herramientas adicionales para ejecutar este proyecto. Solo asegúra
 
 1. Clona el repositorio en tu máquina local:
     ```bash
-    git clone https://github.com/Sodi0/challenge-amigo-secreto_esp-main.git
+    git clone https://github.com/YoDivergente/desafio_amigo_secreto.git
     ```
 
 2. Navega al directorio del proyecto:
     ```bash
-    cd challenge-amigo-secreto_esp-main
+    cd desafio_amigo_secreto
     ```
 
 3. Abre el archivo `index.html` en tu navegador favorito para empezar a usar la aplicación.
